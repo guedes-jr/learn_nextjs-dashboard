@@ -18,7 +18,7 @@
 <br>
 
 <p align="center">
-  <img alt="NLW-COPA" src="./public/dashboard.avif" width="768">
+  <img alt="dashboard" src="./public/dashboard.avif" width="768">
 </p>
 
 ## 🚀 Tecnologias
@@ -36,7 +36,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 </ul>
 
 ## 💻 Projeto
-<a href="https://learn-nextjs-dashboard-dusky.vercel.app/"><h3>DEMO</h3></a>
+<a href="https://learn-nextjs-dashboard-dusky.vercel.app/">DEMO</a>
 Projeto desenvolvido seguindo documentação do Learn do NextJS durante estudo da mesma para aprendizado da framework.
 
 ## 🔖 Estrutura
