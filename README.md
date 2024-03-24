@@ -1,13 +1,13 @@
 <h1 align="center"> Aprenda Next.js </h1>
 
 <p align="center">
-    Projeto desenvolvido durante estudo da documentação do [Nextjs Learn](https://nextjs.org/learn/dashboard-app).
+    Projeto desenvolvido durante estudo da documentação do <a href="https://nextjs.org/learn/dashboard-app">Nextjs Learn</a>.
 </p>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-estrutura">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-estrutura">Estrutura</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -25,17 +25,18 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- JavaScript;
-- ReactJS;
-- NextJS;
-- PostgreSQL;
-- TailwindCSS;
-- TypeScript;
-- NodeJS.
+<ul>
+    <li><a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">JavaScript</a></li>
+    <li><a href="https://react.dev/">ReactJS</a></li>
+    <li><a href="https://nextjs.org/">NextJS</a></li>
+    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+    <li><a href="https://tailwindcss.com/">TailwindCSS</a></li>
+    <li><a href="https://www.typescriptlang.org/">TypeScript</a></li>
+    <li><a href="https://nodejs.org/en">NodeJS</a></li>
+</ul>
 
 ## 💻 Projeto
-
-### (DEMO)[https://learn-nextjs-dashboard-dusky.vercel.app/]
+<a href="https://learn-nextjs-dashboard-dusky.vercel.app/"><h3>DEMO</h3></a>
 Projeto desenvolvido seguindo documentação do Learn do NextJS durante estudo da mesma para aprendizado da framework.
 
 ## 🔖 Estrutura
